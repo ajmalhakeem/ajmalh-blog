@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:keemjam/ajmalh-fe.git
+[submodule "studio"]
+	path = studio
+	url = git@github.com:keemjam/ajmalh-sanity.git
